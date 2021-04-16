@@ -1,0 +1,27 @@
+h1 {
+    color :tomato
+}
+
+h2 {
+    color :firebrick
+}
+
+.site-description{
+    background-color : sandybrown;
+    display : flex;
+    justify-content : space-evenly;
+}
+
+.grid{
+    background-color : sandybrown;
+    display : flex;
+    justify-content : space-evenly;
+}
+
+p{
+    text-align : center;
+}
+
+.item{
+    background-color : sandybrown;
+}
